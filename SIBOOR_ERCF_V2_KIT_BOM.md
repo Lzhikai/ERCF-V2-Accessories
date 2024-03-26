@@ -1,20 +1,20 @@
 | /            | Component                                                     | Model or Specification                       | Qty |
 |--------------|---------------------------------------------------------------|----------------------------------------------|-----|
 |  Electronics | NEMA17 Motor SBOOR-42STH20-1004A                              | 1.8° 16Ncm/22.7oz.in 1A                      | 2   |
-|  Electronics | GDW DS041MG servo                                             | 90-120° | 3.5KG.cm @5V                       | 1   |
+|  Electronics | GDW DS041MG servo                                             | 90-120° / 3.5KG.cm @5V                       | 1   |
 |  Electronics | Servo extension cable                                         | 60CM                                         | 1   |
-|  Electronics | ERCF Selector Micro Switch                                    | Omron D2F-5L | 50CM | XH2.54 3pin            | 1   |
-|  Electronics | ERCT Neopixel                                                 | 8-color version | SK6812 | 250mm | XH2.54    | 1   |
-|  Electronics | ERCF Selector Neopixel                                        | SK9812 | 650mm | XH2.54                      | 1   |
-|  Electronics | ERCT FPC Limit Switch Board                                   | 8-color version | Black | Omron D2F-5        | 1   |
-|  Electronics | ERCT PCB Limit Switch Board Connection Cable                  | 8-color version | 20cm | XH2.54 9pin         | 1   |
-|  Electronics | ERCF Apron LED PCB Light Board                                | 8-color version | SK6812 | Wire length 200mm | 1   |
+|  Electronics | ERCF Selector Micro Switch                                    | Omron D2F-5L / 50CM / XH2.54 3pin            | 1   |
+|  Electronics | ERCT Neopixel                                                 | 8-color version / SK6812 / 250mm / XH2.54    | 1   |
+|  Electronics | ERCF Selector Neopixel                                        | SK9812 / 650mm / XH2.54                      | 1   |
+|  Electronics | ERCT FPC Limit Switch Board                                   | 8-color version / Black / Omron D2F-5        | 1   |
+|  Electronics | ERCT PCB Limit Switch Board Connection Cable                  | 8-color version / 20cm / XH2.54 9pin         | 1   |
+|  Electronics | ERCF Apron LED PCB Light Board                                | 8-color version / SK6812 / Wire length 200mm | 1   |
 |  Electronics | Binky Encoder                                                 | Black                                        | 1   |
-|  Electronics | Binky Encoder Connection Cable                                | 26AWG | 650mm | XH2.54 3pin                  | 1   |
+|  Electronics | Binky Encoder Connection Cable                                | 26AWG / 650mm / XH2.54 3pin                  | 1   |
 |  Hardware    | 2020 T-Slot extrusion                                         | Mismi NFSB5-2020-239                         | 1   |
 |  Hardware    | 8mm smooth rods                                               | Diameter 8mm, Length 237mm                   | 2   |
 |  Hardware    | D-cut 5mm shaft                                               | Diameter 5mm, Length 256mm, D-shaft          | 1   |
-|  Hardware    | GT2 80T Gear                                                  | 6mm wide | 5mm bore                          | 1   |
+|  Hardware    | GT2 80T Gear                                                  | 6mm wide / 5mm bore                          | 1   |
 | In box       | Toolhead Sensor Micro Switch                                  | Omron D2F-5                                  | 1   |
 | In box       | Bondtech / BMG extruder gear sets                             | /                                            | 9   |
 | In box       | Cutting Blade #4                                              | 6×26×0.4mm SK2 Carbon Steel                  | 2   |
@@ -45,8 +45,8 @@
 | In box       | M5x30mm BHCS                                                  | Nickel plated 10.9 strength                  | 2   |
 | In box       | M5x16mm BHCS                                                  | Nickel plated 10.9 strength                  | 1   |
 | In box       | M5 nylock nuts                                                | Metal Strip Nylon Ring                       | 3   |
-| In box       | GT2 20T  Pulley                                               | 6mm wide | 5mm bore                          | 3   |
-| In box       | GT2 20T  Toothed Idler                                        | 6mm wide | 5mm bore                          | 1   |
+| In box       | GT2 20T  Pulley                                               | 6mm wide / 5mm bore                          | 3   |
+| In box       | GT2 20T  Toothed Idler                                        | 6mm wide / 5mm bore                          | 1   |
 | In box       | 3x2mm round neodymium magnets                                 | 3×2mm                                        | 2   |
 | In box       | 5.5 mm ball bearing                                           | Diameter 5.5mm                               | 9   |
 | In box       | 7 mm ball bearing                                             | Diameter 7mm                                 | 1   |
